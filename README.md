@@ -79,6 +79,6 @@ The compiled `main.js` file must be included in the HTML page for use in the bro
 
 ![index ts](https://user-images.githubusercontent.com/101933251/184610202-945c1807-11f1-4c65-bd79-6e8247eed4f0.JPG)
 
-+ With the Typescript compiler, this .ts file is compiled and a .js file is created. The codes in the resulting file are pure Javascript codes.
++ With the Typescript compiler, this `.ts` file is compiled and a `.js` file is created. The codes in the resulting file are pure Javascript codes.
 
 ![index js](https://user-images.githubusercontent.com/101933251/184610178-98d48b54-0018-4d62-92bd-0410f72139b9.JPG)
