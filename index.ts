@@ -1,0 +1,2 @@
+/* Write and compile
+tsc index.ts */
